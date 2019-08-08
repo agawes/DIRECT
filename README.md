@@ -11,7 +11,11 @@ Clustering on baseline phenotypes
 
 5.[Differences in genetics](psGRS.R) - test 6 partition T2D-GRSs
 
-6b.[Heatmaps of omics signatures](omics_heatmap.R)
+6.[Omics signature of archetypes]()
+
+  a. [Select omics variables to plot]()
+
+  b. [Heatmaps of omics signatures](omics_heatmap.R)
 
 7.[Immune cell signatures in DEGs](immune_cell_enrichment.R)
 
