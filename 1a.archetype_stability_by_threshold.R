@@ -7,6 +7,7 @@ R
 
 library("archetypes")
 library(fossil)
+library(ggplot2)
 
 setwd("~/archetypes/")
 
